@@ -2125,7 +2125,7 @@ topicLesson.appendChild(opt);
         });
     } else if (subject === "Literature") {
         var mainOptions = [
-            { value: "", text: "Select Main Objective" },
+            { value: "Select Main Objective", text: "Select Main Objective" },
             { value: "define basic literary terms" },
             { value: "explain the importance of language in literature" },
             { value: "describe the importance and functions of literature" },
